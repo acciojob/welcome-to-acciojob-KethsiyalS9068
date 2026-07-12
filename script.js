@@ -1,2 +1,2 @@
 //your JS code here. If required.
-console.log ("Welcome to Accio Jobs!")
+console.log ("Welcome to Accio Jobs!");
